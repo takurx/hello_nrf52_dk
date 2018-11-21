@@ -1,0 +1,1 @@
+xcopy /s .\examples C:\nRF5_SDK\
