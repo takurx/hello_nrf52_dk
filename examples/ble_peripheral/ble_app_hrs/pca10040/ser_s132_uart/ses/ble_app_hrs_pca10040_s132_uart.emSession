@@ -1,7 +1,71 @@
 <!DOCTYPE CrossStudio_Session_File>
 <session>
-  <ARMCrossStudioWindow activeProject="ble_app_hrs_pca10040_s132_uart" buildConfiguration="Release"/>
-  <Files>
-    <SessionOpenFile codecName="Default" debugPath="../../../main.c" left="0" name="unnamed" path="../../../main.c" selected="1" top="0" useBinaryEdit="0" useTextEdit="1" x="0" y="0"/>
-  </Files>
+ <Bookmarks/>
+ <Breakpoints groups="Breakpoints" active_group="Breakpoints"/>
+ <ExecutionProfileWindow/>
+ <FrameBufferWindow>
+  <FrameBufferWindow bufferHeight="-1" addressSpace="" addressText="" bufferWidth="-1"/>
+ </FrameBufferWindow>
+ <Memory1/>
+ <Memory2/>
+ <Memory3/>
+ <Memory4/>
+ <Project>
+  <ProjectSessionItem path="ble_app_hrs_pca10040_s132_uart"/>
+  <ProjectSessionItem path="ble_app_hrs_pca10040_s132_uart;ble_app_hrs_pca10040_s132_uart"/>
+  <ProjectSessionItem path="ble_app_hrs_pca10040_s132_uart;ble_app_hrs_pca10040_s132_uart;Application"/>
+  <ProjectSessionItem path="ble_app_hrs_pca10040_s132_uart;ble_app_hrs_pca10040_s132_uart;Board Definition"/>
+  <ProjectSessionItem path="ble_app_hrs_pca10040_s132_uart;ble_app_hrs_pca10040_s132_uart;Board Support"/>
+  <ProjectSessionItem path="ble_app_hrs_pca10040_s132_uart;ble_app_hrs_pca10040_s132_uart;None"/>
+  <ProjectSessionItem path="ble_app_hrs_pca10040_s132_uart;ble_app_hrs_pca10040_s132_uart;nRF_BLE"/>
+  <ProjectSessionItem path="ble_app_hrs_pca10040_s132_uart;ble_app_hrs_pca10040_s132_uart;nRF_BLE_Services"/>
+  <ProjectSessionItem path="ble_app_hrs_pca10040_s132_uart;ble_app_hrs_pca10040_s132_uart;nrf_cc310"/>
+  <ProjectSessionItem path="ble_app_hrs_pca10040_s132_uart;ble_app_hrs_pca10040_s132_uart;nRF_Crypto"/>
+  <ProjectSessionItem path="ble_app_hrs_pca10040_s132_uart;ble_app_hrs_pca10040_s132_uart;nRF_Crypto backend nRF HW"/>
+  <ProjectSessionItem path="ble_app_hrs_pca10040_s132_uart;ble_app_hrs_pca10040_s132_uart;nRF_Crypto backend Oberon"/>
+  <ProjectSessionItem path="ble_app_hrs_pca10040_s132_uart;ble_app_hrs_pca10040_s132_uart;nRF_Crypto backend uECC"/>
+  <ProjectSessionItem path="ble_app_hrs_pca10040_s132_uart;ble_app_hrs_pca10040_s132_uart;nRF_Drivers"/>
+  <ProjectSessionItem path="ble_app_hrs_pca10040_s132_uart;ble_app_hrs_pca10040_s132_uart;nRF_Libraries"/>
+  <ProjectSessionItem path="ble_app_hrs_pca10040_s132_uart;ble_app_hrs_pca10040_s132_uart;nRF_Log"/>
+  <ProjectSessionItem path="ble_app_hrs_pca10040_s132_uart;ble_app_hrs_pca10040_s132_uart;nRF_Oberon_Crypto"/>
+  <ProjectSessionItem path="ble_app_hrs_pca10040_s132_uart;ble_app_hrs_pca10040_s132_uart;nRF_Segger_RTT"/>
+  <ProjectSessionItem path="ble_app_hrs_pca10040_s132_uart;ble_app_hrs_pca10040_s132_uart;nRF_Serialization"/>
+  <ProjectSessionItem path="ble_app_hrs_pca10040_s132_uart;ble_app_hrs_pca10040_s132_uart;nRF_SoftDevice"/>
+  <ProjectSessionItem path="ble_app_hrs_pca10040_s132_uart;ble_app_hrs_pca10040_s132_uart;nRF_TLS"/>
+  <ProjectSessionItem path="ble_app_hrs_pca10040_s132_uart;ble_app_hrs_pca10040_s132_uart;Segger Startup Files"/>
+  <ProjectSessionItem path="ble_app_hrs_pca10040_s132_uart;ble_app_hrs_pca10040_s132_uart;UTF8/UTF16 converter"/>
+ </Project>
+ <Register1/>
+ <Register2/>
+ <Register3/>
+ <Register4/>
+ <Threads>
+  <ThreadsWindow showLists=""/>
+ </Threads>
+ <TraceWindow>
+  <Trace enabled="Yes"/>
+ </TraceWindow>
+ <Watch1>
+  <Watches active="1" update="Never"/>
+ </Watch1>
+ <Watch2>
+  <Watches active="0" update="Never"/>
+ </Watch2>
+ <Watch3>
+  <Watches active="0" update="Never"/>
+ </Watch3>
+ <Watch4>
+  <Watches active="0" update="Never"/>
+ </Watch4>
+ <Files>
+  <SessionOpenFile windowGroup="DockEditLeft" x="13" y="537" useTextEdit="1" useBinaryEdit="0" left="0" path="../../../main.c" selected="0" top="287" codecName=""/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="0" y="0" useTextEdit="1" useBinaryEdit="0" left="0" path="../../../../../../components/boards/boards.c" selected="0" top="30" codecName=""/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="0" y="33" useTextEdit="1" useBinaryEdit="0" left="0" path="ble_app_hrs_pca10040_s132_uart.emProject" selected="0" top="0" codecName=""/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="0" y="625" useTextEdit="1" useBinaryEdit="0" left="0" path="../../../../../../components/libraries/bsp/bsp.c" selected="0" top="601" codecName=""/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="0" y="58" useTextEdit="1" useBinaryEdit="0" left="0" path="../../../../../../components/libraries/sensorsim/sensorsim.c" selected="0" top="49" codecName=""/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="0" y="73" useTextEdit="1" useBinaryEdit="0" left="0" path="../../../../../../components/libraries/sensorsim/sensorsim.h" selected="0" top="38" codecName=""/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="0" y="0" useTextEdit="1" useBinaryEdit="0" left="0" path="../../../../../../modules/nrfx/drivers/src/nrfx_gpiote.c" selected="0" top="22" codecName=""/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="0" y="161" useTextEdit="1" useBinaryEdit="0" left="0" path="../config/sdk_config.h" selected="1" top="142" codecName=""/>
+ </Files>
+ <ARMCrossStudioWindow activeProject="ble_app_hrs_pca10040_s132_uart" fileDialogDefaultFilter="*.c" autoConnectTarget="J-Link" buildConfiguration="Release" debugSearchFileMap="" fileDialogInitialDirectory="" debugSearchPath="" autoConnectCapabilities="3199"/>
 </session>
